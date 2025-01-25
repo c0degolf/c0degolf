@@ -1,1 +1,1 @@
-discord : elliptic_curve<
+discord : elliptic_curve
